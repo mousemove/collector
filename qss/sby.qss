@@ -1,0 +1,6 @@
+QPushButton
+
+{
+border-image:url(://images/button_yellow.png) 10px;
+color:white
+}

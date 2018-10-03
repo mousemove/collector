@@ -1,0 +1,15 @@
+QPushButton
+
+{
+
+border-image:url(://images/button2.png) 10px;
+color:white
+
+}
+
+QPushButton:focus
+{
+border-image:url(://images/button2.png) 10px;
+color:white
+
+}

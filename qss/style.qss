@@ -1,0 +1,32 @@
+QWidget {
+background-color:  #000000;
+}
+
+
+QLabel {
+color:white;
+}
+
+QPushButton
+
+{
+
+border-image:url(://images/button.png) 10px;
+color:white;
+
+}
+
+QPushButton:focus
+{
+border-image:url(:/images/button_yellow.png) 10px;
+color:white
+
+}
+
+
+QFrame
+
+{
+border : 0px solid white;
+border-radius:0px
+}

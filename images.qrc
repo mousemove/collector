@@ -1,0 +1,58 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/loading_logo.png</file>
+        <file>images/main_logo.png</file>
+        <file>images/1.jpg</file>
+        <file>images/2.jpeg</file>
+        <file>images/button.png</file>
+        <file>images/button_yellow.png</file>
+        <file>images/button_green.png</file>
+        <file>images/phone.png</file>
+        <file>images/audience2.jpg</file>
+        <file>images/bb.png</file>
+        <file>images/Check.png</file>
+        <file>images/handshake-003.png</file>
+        <file>images/medal.png</file>
+        <file>images/quest.png</file>
+        <file>images/button2.png</file>
+    </qresource>
+    <qresource lang="css" prefix="/qss">
+        <file>qss/style.qss</file>
+        <file>qss/sbg.qss</file>
+        <file>qss/sby.qss</file>
+        <file>qss/pictureborder.qss</file>
+        <file>qss/styleborderlabel.qss</file>
+        <file>qss/sbbigbutton.qss</file>
+    </qresource>
+    <qresource prefix="/data">
+        <file>data/l.db</file>
+        <file>data/q.db</file>
+    </qresource>
+    <qresource prefix="/q">
+        <file>images/questions/1.jpg</file>
+        <file>images/questions/2.jpg</file>
+        <file>images/questions/3.jpg</file>
+        <file>images/questions/4.jpg</file>
+        <file>images/questions/5.jpg</file>
+        <file>images/questions/6.jpg</file>
+        <file>images/questions/7.png</file>
+    </qresource>
+    <qresource prefix="/l">
+        <file>images/loot/kalosha.jpg</file>
+        <file>images/loot/undef.jpg</file>
+        <file>images/loot/boom.jpg</file>
+        <file>images/loot/finskiy.jpg</file>
+        <file>images/loot/kokka.jpg</file>
+        <file>images/loot/mig.jpg</file>
+        <file>images/loot/myach.jpg</file>
+        <file>images/loot/pushkin.jpg</file>
+        <file>images/loot/repin.jpg</file>
+        <file>images/loot/rouble.jpg</file>
+        <file>images/loot/svyatogor.jpg</file>
+        <file>images/loot/xs.jpg</file>
+    </qresource>
+    <qresource prefix="/сhararters">
+        <file>images/chars/1.jpg</file>
+        <file>images/chars/2.jpg</file>
+    </qresource>
+</RCC>
